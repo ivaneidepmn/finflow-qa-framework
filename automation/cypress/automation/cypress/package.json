@@ -1,0 +1,12 @@
+{
+  "name": "finflow-qa-framework",
+  "version": "1.0.0",
+  "description": "Framework QA Sênior FinFlow - Cypress",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
