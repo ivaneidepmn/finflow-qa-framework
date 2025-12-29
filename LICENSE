@@ -3,13 +3,13 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 ## Descrição
-**FinFlow QA Framework** é um projeto de **QA Sênior** que combina:
+**FinFlow QA Framework** é um projeto de **QA Sênior** que integra:
 
-- **Automação de testes** utilizando **Cypress**;  
-- **Testes de carga e desempenho** com **JMeter**;  
-- **Documentação estruturada** para facilitar o controle e auditoria dos testes.  
+- **Automação de testes** utilizando **Cypress**  
+- **Testes de carga e desempenho** com **JMeter**  
+- **Documentação estruturada**, garantindo rastreabilidade e controle de qualidade  
 
-O objetivo é fornecer um **framework completo de garantia de qualidade** para o sistema FinFlow, garantindo confiabilidade, rastreabilidade e facilidade de manutenção.
+O objetivo é fornecer um **framework completo de garantia de qualidade** para o sistema FinFlow, promovendo **confiabilidade, rastreabilidade e facilidade de manutenção**.
 
 ---
 
