@@ -1,0 +1,39 @@
+# Plano de Testes – Projeto FinFlow QA
+
+## 1. Objetivo
+Este documento define o plano de testes para o sistema FinFlow, garantindo qualidade de software através de testes automatizados e manuais.
+
+## 2. Escopo
+- Testes de login, contratos, pagamentos e relatórios.
+- Testes de carga utilizando JMeter.
+- Validação de integração com APIs e banco de dados.
+
+## 3. Tipos de Testes
+- **Funcionais:** validação de requisitos do sistema.
+- **Não funcionais:** performance, carga e segurança.
+- **Automatizados:** Cypress para testes de front-end.
+- **Manuais:** validação de processos críticos.
+
+## 4. Critérios de Sucesso
+- Todos os testes críticos devem passar.
+- Nenhum bug crítico em produção.
+- Cobertura mínima de 80% nos testes automatizados.
+
+## 5. Cronograma
+| Atividade                | Responsável | Data Inicial | Data Final |
+|---------------------------|------------|-------------|------------|
+| Preparação de ambiente    | QA         | 01/01/2026  | 03/01/2026 |
+| Desenvolvimento de testes | QA         | 04/01/2026  | 10/01/2026 |
+| Execução de testes        | QA         | 11/01/2026  | 20/01/2026 |
+| Relatório final           | QA         | 21/01/2026  | 22/01/2026 |
+
+## 6. Ferramentas
+- Cypress
+- JMeter
+- GitHub (repositório)
+- Jira / Trello (gestão de tarefas)
+
+## 7. Riscos
+- Instabilidade do ambiente de homologação.
+- Dependência de APIs externas.
+- Falta de dados de teste completos.
