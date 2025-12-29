@@ -104,3 +104,8 @@ docs/*.pdf
 # Vite logs
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+#------------------------------
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
