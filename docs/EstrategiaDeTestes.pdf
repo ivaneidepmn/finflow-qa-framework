@@ -1,0 +1,35 @@
+# Estratégia de Testes – Projeto FinFlow QA
+
+## 1. Visão Geral
+A estratégia de testes define a abordagem para garantir a qualidade do sistema FinFlow, considerando testes automatizados, manuais e de carga.
+
+## 2. Abordagem
+- **Automação:** uso do Cypress para testes de interface e API.
+- **Testes de carga:** JMeter para simulação de múltiplos usuários.
+- **Testes manuais:** validação de fluxos complexos e relatórios.
+
+## 3. Prioridades
+- Testes críticos de login, pagamentos e contratos.
+- Relatórios financeiros e extração de dados.
+- Integração com banco de dados e sistemas externos.
+
+## 4. Critérios de Entrada
+- Ambientes de desenvolvimento e homologação disponíveis.
+- Dados de teste preparados.
+- Requisitos do sistema completos e documentados.
+
+## 5. Critérios de Saída
+- Todos os testes críticos automatizados e manuais executados.
+- Bugs críticos corrigidos.
+- Relatórios de testes aprovados pela equipe de QA.
+
+## 6. Ferramentas e Recursos
+- Cypress (testes automatizados)
+- JMeter (testes de carga)
+- GitHub (controle de versão)
+- Ferramentas de comunicação (Slack, Teams)
+
+## 7. Monitoramento
+- Reuniões semanais para acompanhamento de progresso.
+- Controle de execução de testes e cobertura.
+- Relatórios consolidados e arquivamento no repositório `docs/Relatorios/`.
