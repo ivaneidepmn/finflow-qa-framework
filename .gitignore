@@ -1,6 +1,4 @@
-# -----------------------------
 # Logs
-# -----------------------------
 logs
 *.log
 npm-debug.log*
@@ -16,9 +14,7 @@ pids
 *.seed
 *.pid.lock
 
-# -----------------------------
 # Coverage & Test Tools
-# -----------------------------
 lib-cov
 coverage
 *.lcov
@@ -36,17 +32,13 @@ automation/jmeter/reports/
 reports/
 performance/
 
-# -----------------------------
 # Dependency directories
-# -----------------------------
 node_modules/
 bower_components/
 jspm_packages/
 web_modules/
 
-# -----------------------------
 # Build / Output
-# -----------------------------
 .cache
 .parcel-cache
 .next
@@ -64,21 +56,15 @@ dist
 .firebase/
 .tern-port
 
-# -----------------------------
 # TypeScript
-# -----------------------------
 *.tsbuildinfo
 
-# -----------------------------
 # Environment
-# -----------------------------
 .env
 .env.*
 !.env.example
 
-# -----------------------------
 # Yarn v3
-# -----------------------------
 .pnp.*
 .yarn/*
 !.yarn/patches
@@ -87,25 +73,16 @@ dist
 !.yarn/sdks
 !.yarn/versions
 
-# -----------------------------
 # IDE / Editor / OS files
-# -----------------------------
 .node_repl_history
 .vscode-test
 .DS_Store
 Thumbs.db
 *.swp
 
-# -----------------------------
 # Optional generated files
-# -----------------------------
 docs/*.pdf
 
 # Vite logs
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-#------------------------------
-# Cypress videos and screenshots
-cypress/videos/
-cypress/screenshots/
-
