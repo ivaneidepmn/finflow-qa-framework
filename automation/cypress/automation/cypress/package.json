@@ -1,7 +1,7 @@
 {
   "name": "finflow-qa-framework",
   "version": "1.0.0",
-  "description": "Framework QA Sênior FinFlow - Cypress",
+  "description": "Framework QA Sênior FinFlow - Cypress + JMeter",
   "scripts": {
     "cypress:open": "cypress open",
     "cypress:run": "cypress run"
